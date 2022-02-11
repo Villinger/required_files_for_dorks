@@ -1,0 +1,13 @@
+(KW).(PF)?(PT)=
+(KW).(PF)?(PT)=site:(DE)
+(KW).(PF)?(PT)=(NB)
+(KW).(PF)?(PT)=(NB)site:(DE)
+(SF)".(DE)"+"(KW)"
+(SF)(KW).(PF)?(PT)=
+(SF)(KW).(PF)?(PT)=site:(DE)
+(SF)(PT)=(KW).(PF)?site:(DE)
+(SF)(KW).(PF)?(PT)=(NB)
+(SF)(KW).(PF)?(PT)=(NB)site:(DE)
+(SF)"(KW)"+"(DE)".(PF)?(PT)=
+(SF)"(KW)"+"(DE)".(PF)?(PT)=(NB)
+(PF)?(PT)="(KW)"

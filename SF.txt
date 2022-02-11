@@ -1,0 +1,15 @@
+inurl:
+intext:
+allintext:
+allintitle:
+source:
+filetype:
+insubject:
+allinanchor:
+allinurl:
+cache:
+inanchor:
+info:
+intitle:
+link:
+instreamset:(url):
